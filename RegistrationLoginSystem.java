@@ -3,6 +3,15 @@ package prog5121.registrationloginsystem;
 
 import java.util.Scanner;
 
+//CODE ATTRIBUTION
+//This code was adapted from the source below
+
+//Author: OpenAI
+//Date: 2024
+//Title: ChatGPT-4 (Apr 9 version) [Large Language Model].
+//Source: https://openai.com/
+
+
 public class RegistrationLoginSystem {
     static String registerUsername;
     static String registerPassword;
@@ -51,6 +60,16 @@ public class RegistrationLoginSystem {
             }
         }
     }
+
+        //CODE ATTRIBUTION
+    //This code was adapted from the source below
+    
+    //Author: Yoel Nunez
+    //Author Profile: https://stackoverflow.com/users/4114033/yoel-nunez
+    //Date: Oct 7, 2014
+    //Title: java-public-static-boolean-method
+    //Source: https://stackoverflow.com/questions/26240250/java-public-static-boolean-method
+    
 
     //Validation methods for the RegistrationLoginSystem
     
